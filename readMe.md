@@ -6,6 +6,6 @@ Python
 React Native
 AWS
 
-### Developers
+## Developers
 Alex Mair and Ross Dunn
 
